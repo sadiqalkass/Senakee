@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(118deg, rgb(86, 236, 86), rgba(6, 74, 6, 0.45));
+    max-height: 100vh;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(15, 15, 15);
+}
+.game_levels {
+    display: flex;
+    justify-content: space-evenly;
+}
+li{
+    list-style: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+li:hover {
+    color: green;
+    transform: scale(1.2);
+}
+#starttext {
+    font-size: 1.2rem;
+    color: rgb(199, 25, 25);
+}
+#gamecontainer {
+    text-align: center;
+    font-family: cursive, Arial, Helvetica;
+}
+#gamebox {
+    border: 4px solid;
+}
+button {
+    font-size: 1rem;
+    border: 3px solid;
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #333;
+    color: whitesmoke;
+}
+#scoretext {
+    font-size: 100px;
+}
+.actions-btn{
+    padding: 5px;
+}
