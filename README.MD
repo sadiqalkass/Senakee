@@ -20,8 +20,8 @@ The base was built by following a tutorial from **CodeNinja** on YouTube, but I 
 - Snake color customization  
 - Clean, responsive design  
 
-## 📸 Screenshots
-(Add screenshots of your game here – e.g., menu, gameplay, different levels.)
+## 📸 Screenshot
+<img src="/senakee-pic.png" alt="logo" width="200">
 
 ## 🚀 Demo
 [Play Senakee Online](#)  
@@ -44,13 +44,13 @@ While building and customizing **Senakee**, I gained hands-on experience with:
 ## ⚡ Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sadalkass/senakee.git
+   git clone https://github.com/sadiqalkass/Senakee.git
 Open index.html in your browser to start the game.
 
 🙏 Acknowledgment
 Original base implementation from CodeNinja on YouTube
 
-Extended and customized by [Your Name]
+Extended and customized by Sadiq(Virus)
 
 📜 License
 This project is for learning and portfolio purposes and is not intended for commercial use.
