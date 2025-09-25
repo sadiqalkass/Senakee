@@ -11,7 +11,7 @@
 # 🎮 Senakee
 
 **Senakee** is a customized version of the classic Snake Game.  
-The base was built by following a tutorial from **CodeNinja** on YouTube, but I extended it with new features and styling to make it unique.
+The base was built by following a tutorial from **Bro Code** on YouTube, but I extended it with new features and styling to make it unique.
 
 ## ✨ Features
 - Pause and resume functionality  
